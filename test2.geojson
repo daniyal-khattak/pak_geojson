@@ -1,30 +1,23 @@
 {
   "type": "FeatureCollection",
-  "generator": "overpass-turbo",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-11-13T06:40:35Z",
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "@id": "way/561449479",
-        "highway": "residential",
-        "@tainted": true
-      },
       "geometry": {
-        "type": "LineString",
+        "type": "Polygon",
         "coordinates": [
           [
-            72.6912489,
-            32.783566
-          ],
-          [
-            72.6914302,
-            32.7840701
+            [60.9, 23.8],
+            [77.8, 23.8],
+            [77.8, 37.1],
+            [60.9, 37.1],
+            [60.9, 23.8]
           ]
         ]
       },
-      "id": "way/561449479"
+      "properties": {
+        "name": "Pakistan"
+      }
     }
   ]
 }
