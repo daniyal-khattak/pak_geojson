@@ -55180,18 +55180,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          71.95217923126933,
-          28.54788323430857
-        ],
-        "type": "Point"
-      },
-      "id": 141
     }
   ]
 }
