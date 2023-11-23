@@ -4,22 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.1_1",
         "NAME_1": "Azad Kashmir",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.1.1_1",
         "NAME_2": "Azad Kashmir",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.1.1.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Bagh"
+        "Cities": "Bagh"
       },
       "geometry": {
         "type": "Polygon",
@@ -196,22 +186,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.1_1",
         "NAME_1": "Azad Kashmir",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.1.1_1",
         "NAME_2": "Azad Kashmir",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.1.1.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Bhimber"
+        "Cities": "Bhimber"
       },
       "geometry": {
         "type": "Polygon",
@@ -408,22 +388,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.1_1",
         "NAME_1": "Azad Kashmir",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.1.1_1",
         "NAME_2": "Azad Kashmir",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.1.1.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kotli"
+        "Cities": "Kotli"
       },
       "geometry": {
         "type": "Polygon",
@@ -596,22 +566,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.1_1",
         "NAME_1": "Azad Kashmir",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.1.1_1",
         "NAME_2": "Azad Kashmir",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.1.1.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Mirpur"
+        "Cities": "Mirpur"
       },
       "geometry": {
         "type": "Polygon",
@@ -744,22 +704,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.1_1",
         "NAME_1": "Azad Kashmir",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.1.1_1",
         "NAME_2": "Azad Kashmir",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.1.1.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Muzaffarabad"
+        "Cities": "Muzaffarabad"
       },
       "geometry": {
         "type": "Polygon",
@@ -948,22 +898,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.1_1",
         "NAME_1": "Azad Kashmir",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.1.1_1",
         "NAME_2": "Azad Kashmir",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.1.1.6_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Neelum"
+        "Cities": "Neelum"
       },
       "geometry": {
         "type": "Polygon",
@@ -1432,22 +1372,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.1_1",
         "NAME_1": "Azad Kashmir",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.1.1_1",
         "NAME_2": "Azad Kashmir",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.1.1.7_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Poonch"
+        "Cities": "Poonch"
       },
       "geometry": {
         "type": "Polygon",
@@ -1572,22 +1502,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.1_1",
         "NAME_1": "Azad Kashmir",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.1.1_1",
         "NAME_2": "Azad Kashmir",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.1.1.8_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Sudhnati"
+        "Cities": "Sudhnati"
       },
       "geometry": {
         "type": "Polygon",
@@ -1696,22 +1616,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.1_1",
         "NAME_2": "Kalat",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.1.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Awaran"
+        "Cities": "Awaran"
       },
       "geometry": {
         "type": "Polygon",
@@ -2324,22 +2234,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.1_1",
         "NAME_2": "Kalat",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.1.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Disputed Area"
+        "Cities": "Disputed Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -2652,22 +2552,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.1_1",
         "NAME_2": "Kalat",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.1.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Disputed Area"
+        "Cities": "Disputed Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -2736,22 +2626,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.1_1",
         "NAME_2": "Kalat",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.1.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kalat"
+        "Cities": "Kalat"
       },
       "geometry": {
         "type": "Polygon",
@@ -3128,22 +3008,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.1_1",
         "NAME_2": "Kalat",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.1.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kharan"
+        "Cities": "Kharan"
       },
       "geometry": {
         "type": "Polygon",
@@ -4108,22 +3978,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.1_1",
         "NAME_2": "Kalat",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.1.6_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Khuzdar"
+        "Cities": "Khuzdar"
       },
       "geometry": {
         "type": "Polygon",
@@ -4740,22 +4600,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.1_1",
         "NAME_2": "Kalat",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.1.7_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Lasbela"
+        "Cities": "Lasbela"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5687,22 +5537,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.1_1",
         "NAME_2": "Kalat",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.1.8_1",
-        "VARNAME_3": "Mustung",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Mastung"
+        "Cities": "Mastung"
       },
       "geometry": {
         "type": "Polygon",
@@ -6139,22 +5979,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.2_1",
         "NAME_2": "Makran",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.2.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Gwadar"
+        "Cities": "Gwadar"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7485,22 +7315,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.2_1",
         "NAME_2": "Makran",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.2.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kech"
+        "Cities": "Kech"
       },
       "geometry": {
         "type": "Polygon",
@@ -8225,22 +8045,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.2_1",
         "NAME_2": "Makran",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.2.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Panjgur"
+        "Cities": "Panjgur"
       },
       "geometry": {
         "type": "Polygon",
@@ -8805,22 +8615,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.3_1",
         "NAME_2": "Nasirabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.3.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Bolan"
+        "Cities": "Bolan"
       },
       "geometry": {
         "type": "Polygon",
@@ -9221,22 +9021,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.3_1",
         "NAME_2": "Nasirabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.3.2_1",
-        "VARNAME_3": "Nasir Abad",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Jafarabad"
+        "Cities": "Jafarabad"
       },
       "geometry": {
         "type": "Polygon",
@@ -9397,22 +9187,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.3_1",
         "NAME_2": "Nasirabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.3.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Jhal Magsi"
+        "Cities": "Jhal Magsi"
       },
       "geometry": {
         "type": "Polygon",
@@ -9661,22 +9441,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.3_1",
         "NAME_2": "Nasirabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.3.4_1",
-        "VARNAME_3": "Nasir Abad",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Nasirabad"
+        "Cities": "Nasirabad"
       },
       "geometry": {
         "type": "Polygon",
@@ -9845,22 +9615,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.4_1",
         "NAME_2": "Quetta",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.4.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Chagai"
+        "Cities": "Chagai"
       },
       "geometry": {
         "type": "Polygon",
@@ -10642,22 +10402,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.4_1",
         "NAME_2": "Quetta",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.4.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Pishin"
+        "Cities": "Pishin"
       },
       "geometry": {
         "type": "Polygon",
@@ -11158,22 +10908,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.4_1",
         "NAME_2": "Quetta",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.4.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Qilla Abdullah"
+        "Cities": "Qilla Abdullah"
       },
       "geometry": {
         "type": "Polygon",
@@ -11534,22 +11274,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.4_1",
         "NAME_2": "Quetta",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.4.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Quetta"
+        "Cities": "Quetta"
       },
       "geometry": {
         "type": "Polygon",
@@ -11898,22 +11628,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.5_1",
         "NAME_2": "Sibi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.5.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Dera Bugti"
+        "Cities": "Dera Bugti"
       },
       "geometry": {
         "type": "Polygon",
@@ -12238,22 +11958,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.5_1",
         "NAME_2": "Sibi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.5.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kholu"
+        "Cities": "Kholu"
       },
       "geometry": {
         "type": "Polygon",
@@ -12586,22 +12296,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.5_1",
         "NAME_2": "Sibi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.5.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Sibi"
+        "Cities": "Sibi"
       },
       "geometry": {
         "type": "Polygon",
@@ -12950,22 +12650,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.5_1",
         "NAME_2": "Sibi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.5.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Ziarat"
+        "Cities": "Ziarat"
       },
       "geometry": {
         "type": "Polygon",
@@ -13118,22 +12808,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.6_1",
         "NAME_2": "Zhob",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.6.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Barkhan"
+        "Cities": "Barkhan"
       },
       "geometry": {
         "type": "Polygon",
@@ -13406,22 +13086,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.6_1",
         "NAME_2": "Zhob",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.6.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Loralai"
+        "Cities": "Loralai"
       },
       "geometry": {
         "type": "Polygon",
@@ -13818,22 +13488,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.6_1",
         "NAME_2": "Zhob",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.6.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Musakhel"
+        "Cities": "Musakhel"
       },
       "geometry": {
         "type": "Polygon",
@@ -14230,22 +13890,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.6_1",
         "NAME_2": "Zhob",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.6.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Qilla Saifullah"
+        "Cities": "Qilla Saifullah"
       },
       "geometry": {
         "type": "Polygon",
@@ -14738,22 +14388,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.2_1",
         "NAME_1": "Baluchistan",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.2.6_1",
         "NAME_2": "Zhob",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.2.6.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Zhob"
+        "Cities": "Zhob"
       },
       "geometry": {
         "type": "Polygon",
@@ -15538,22 +15178,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.3_1",
         "NAME_1": "F.A.T.A.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.3.1_1",
         "NAME_2": "F.A.T.A.",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.3.1.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Bajaur"
+        "Cities": "Bajaur"
       },
       "geometry": {
         "type": "Polygon",
@@ -15722,22 +15352,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.3_1",
         "NAME_1": "F.A.T.A.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.3.1_1",
         "NAME_2": "F.A.T.A.",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.3.1.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Khyber"
+        "Cities": "Khyber"
       },
       "geometry": {
         "type": "Polygon",
@@ -16082,22 +15702,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.3_1",
         "NAME_1": "F.A.T.A.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.3.1_1",
         "NAME_2": "F.A.T.A.",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.3.1.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kurram"
+        "Cities": "Kurram"
       },
       "geometry": {
         "type": "Polygon",
@@ -16450,22 +16060,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.3_1",
         "NAME_1": "F.A.T.A.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.3.1_1",
         "NAME_2": "F.A.T.A.",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.3.1.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Largha Shirani"
+        "Cities": "Largha Shirani"
       },
       "geometry": {
         "type": "Polygon",
@@ -16682,22 +16282,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.3_1",
         "NAME_1": "F.A.T.A.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.3.1_1",
         "NAME_2": "F.A.T.A.",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.3.1.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Mohmand"
+        "Cities": "Mohmand"
       },
       "geometry": {
         "type": "Polygon",
@@ -16930,22 +16520,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.3_1",
         "NAME_1": "F.A.T.A.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.3.1_1",
         "NAME_2": "F.A.T.A.",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.3.1.6_1",
-        "VARNAME_3": "North Waziristan",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "N. Waziristan"
+        "Cities": "N. Waziristan"
       },
       "geometry": {
         "type": "Polygon",
@@ -17278,22 +16858,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.3_1",
         "NAME_1": "F.A.T.A.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.3.1_1",
         "NAME_2": "F.A.T.A.",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.3.1.7_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Orakzai"
+        "Cities": "Orakzai"
       },
       "geometry": {
         "type": "Polygon",
@@ -17478,22 +17048,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.3_1",
         "NAME_1": "F.A.T.A.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.3.1_1",
         "NAME_2": "F.A.T.A.",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.3.1.8_1",
-        "VARNAME_3": "South Waziristan",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "S. Waziristan"
+        "Cities": "S. Waziristan"
       },
       "geometry": {
         "type": "Polygon",
@@ -18010,22 +17570,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.4_1",
         "NAME_1": "F.C.T.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.4.1_1",
         "NAME_2": "Islamabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.4.1.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Islamabad"
+        "Cities": "Islamabad"
       },
       "geometry": {
         "type": "Polygon",
@@ -18178,22 +17728,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.1_1",
         "NAME_2": "Bannu",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.1.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Bannu"
+        "Cities": "Bannu"
       },
       "geometry": {
         "type": "Polygon",
@@ -18386,22 +17926,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.1_1",
         "NAME_2": "Bannu",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.1.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Lakki Marwat"
+        "Cities": "Lakki Marwat"
       },
       "geometry": {
         "type": "Polygon",
@@ -18622,22 +18152,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.2_1",
         "NAME_2": "Dera Ismail Khan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.2.1_1",
-        "VARNAME_3": "D.I.Khan",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Dera Ismail Khan"
+        "Cities": "Dera Ismail Khan"
       },
       "geometry": {
         "type": "Polygon",
@@ -18994,22 +18514,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.2_1",
         "NAME_2": "Dera Ismail Khan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.2.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Tank"
+        "Cities": "Tank"
       },
       "geometry": {
         "type": "Polygon",
@@ -19162,22 +18672,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.3_1",
         "NAME_2": "F.A.T.A.",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.3.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Adam Khel"
+        "Cities": "Adam Khel"
       },
       "geometry": {
         "type": "Polygon",
@@ -19306,22 +18806,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.3_1",
         "NAME_2": "F.A.T.A.",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.3.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Bhittani"
+        "Cities": "Bhittani"
       },
       "geometry": {
         "type": "Polygon",
@@ -19446,22 +18936,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.4_1",
         "NAME_2": "Hazara",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.4.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Abbottabad"
+        "Cities": "Abbottabad"
       },
       "geometry": {
         "type": "Polygon",
@@ -19746,22 +19226,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.4_1",
         "NAME_2": "Hazara",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.4.2_1",
-        "VARNAME_3": "Batgram",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Battagram"
+        "Cities": "Battagram"
       },
       "geometry": {
         "type": "Polygon",
@@ -19958,22 +19428,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.4_1",
         "NAME_2": "Hazara",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.4.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Haripur"
+        "Cities": "Haripur"
       },
       "geometry": {
         "type": "Polygon",
@@ -20386,22 +19846,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.4_1",
         "NAME_2": "Hazara",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.4.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kohistan"
+        "Cities": "Kohistan"
       },
       "geometry": {
         "type": "Polygon",
@@ -20810,22 +20260,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.4_1",
         "NAME_2": "Hazara",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.4.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Mansehra"
+        "Cities": "Mansehra"
       },
       "geometry": {
         "type": "Polygon",
@@ -21318,22 +20758,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.5_1",
         "NAME_2": "Kohat",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.5.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Hangu"
+        "Cities": "Hangu"
       },
       "geometry": {
         "type": "Polygon",
@@ -21510,22 +20940,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.5_1",
         "NAME_2": "Kohat",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.5.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Karak"
+        "Cities": "Karak"
       },
       "geometry": {
         "type": "Polygon",
@@ -21778,22 +21198,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.5_1",
         "NAME_2": "Kohat",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.5.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kohat"
+        "Cities": "Kohat"
       },
       "geometry": {
         "type": "Polygon",
@@ -22114,22 +21524,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.6_1",
         "NAME_2": "Malakand",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.6.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Chitral"
+        "Cities": "Chitral"
       },
       "geometry": {
         "type": "Polygon",
@@ -22938,22 +22338,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.6_1",
         "NAME_2": "Malakand",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.6.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Dir"
+        "Cities": "Dir"
       },
       "geometry": {
         "type": "Polygon",
@@ -23298,22 +22688,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.6_1",
         "NAME_2": "Malakand",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.6.3_1",
-        "VARNAME_3": "Malakand",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Malakand P.A."
+        "Cities": "Malakand P.A."
       },
       "geometry": {
         "type": "Polygon",
@@ -23486,22 +22866,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.6_1",
         "NAME_2": "Malakand",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.6.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Shangla"
+        "Cities": "Shangla"
       },
       "geometry": {
         "type": "Polygon",
@@ -23746,22 +23116,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.6_1",
         "NAME_2": "Malakand",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.6.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Swat"
+        "Cities": "Swat"
       },
       "geometry": {
         "type": "Polygon",
@@ -24158,22 +23518,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.7_1",
         "NAME_2": "Mardan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.7.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Buner"
+        "Cities": "Buner"
       },
       "geometry": {
         "type": "Polygon",
@@ -24406,22 +23756,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.7_1",
         "NAME_2": "Mardan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.7.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Mardan"
+        "Cities": "Mardan"
       },
       "geometry": {
         "type": "Polygon",
@@ -24622,22 +23962,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.7_1",
         "NAME_2": "Mardan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.7.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Swabi"
+        "Cities": "Swabi"
       },
       "geometry": {
         "type": "Polygon",
@@ -24842,22 +24172,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.8_1",
         "NAME_2": "Peshawar",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.8.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Charsadda"
+        "Cities": "Charsadda"
       },
       "geometry": {
         "type": "Polygon",
@@ -24986,22 +24306,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.8_1",
         "NAME_2": "Peshawar",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.8.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Nowshera"
+        "Cities": "Nowshera"
       },
       "geometry": {
         "type": "Polygon",
@@ -25199,22 +24509,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.5_1",
         "NAME_1": "N.W.F.P.",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.5.8_1",
         "NAME_2": "Peshawar",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.5.8.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Peshawar"
+        "Cities": "Peshawar"
       },
       "geometry": {
         "type": "Polygon",
@@ -25363,22 +24663,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.6_1",
         "NAME_1": "Northern Areas",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.6.1_1",
         "NAME_2": "Northern Areas",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.6.1.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Chilas"
+        "Cities": "Chilas"
       },
       "geometry": {
         "type": "Polygon",
@@ -25667,22 +24957,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.6_1",
         "NAME_1": "Northern Areas",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.6.1_1",
         "NAME_2": "Northern Areas",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.6.1.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Gilgit"
+        "Cities": "Gilgit"
       },
       "geometry": {
         "type": "Polygon",
@@ -26631,22 +25911,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.6_1",
         "NAME_1": "Northern Areas",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.6.1_1",
         "NAME_2": "Northern Areas",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.6.1.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Gilgit (Tribal Territory)"
+        "Cities": "Gilgit (Tribal Territory)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26851,22 +26121,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.6_1",
         "NAME_1": "Northern Areas",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.6.1_1",
         "NAME_2": "Northern Areas",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.6.1.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kargil"
+        "Cities": "Kargil"
       },
       "geometry": {
         "type": "Polygon",
@@ -27255,22 +26515,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.6_1",
         "NAME_1": "Northern Areas",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.6.1_1",
         "NAME_2": "Northern Areas",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.6.1.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kupwara (Gilgit Wazarat)"
+        "Cities": "Kupwara (Gilgit Wazarat)"
       },
       "geometry": {
         "type": "Polygon",
@@ -27527,22 +26777,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.6_1",
         "NAME_1": "Northern Areas",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.6.1_1",
         "NAME_2": "Northern Areas",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.6.1.6_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Ladakh (Leh)"
+        "Cities": "Ladakh (Leh)"
       },
       "geometry": {
         "type": "Polygon",
@@ -27955,22 +27195,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.1_1",
         "NAME_2": "Bahawalpur",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.1.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Bahawalnagar"
+        "Cities": "Bahawalnagar"
       },
       "geometry": {
         "type": "Polygon",
@@ -28568,22 +27798,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.1_1",
         "NAME_2": "Bahawalpur",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.1.2_1",
-        "VARNAME_3": "Bhawalpur",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Bahawalpur"
+        "Cities": "Bahawalpur"
       },
       "geometry": {
         "type": "Polygon",
@@ -29360,22 +28580,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.1_1",
         "NAME_2": "Bahawalpur",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.1.3_1",
-        "VARNAME_3": "Rahim Yar Khan",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Rahimyar Khan"
+        "Cities": "Rahimyar Khan"
       },
       "geometry": {
         "type": "Polygon",
@@ -29832,22 +29042,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.2_1",
         "NAME_2": "Dera Ghazi Khan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.2.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Dera Ghazi Kha"
+        "Cities": "Dera Ghazi Kha"
       },
       "geometry": {
         "type": "Polygon",
@@ -30732,22 +29932,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.2_1",
         "NAME_2": "Dera Ghazi Khan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.2.2_1",
-        "VARNAME_3": "Lieah",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Layyah"
+        "Cities": "Layyah"
       },
       "geometry": {
         "type": "Polygon",
@@ -31088,22 +30278,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.2_1",
         "NAME_2": "Dera Ghazi Khan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.2.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Muzaffargarh"
+        "Cities": "Muzaffargarh"
       },
       "geometry": {
         "type": "Polygon",
@@ -31612,22 +30792,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.2_1",
         "NAME_2": "Dera Ghazi Khan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.2.4_1",
-        "VARNAME_3": "Rajanpur",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Rajan Pur"
+        "Cities": "Rajan Pur"
       },
       "geometry": {
         "type": "Polygon",
@@ -32212,22 +31382,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.3_1",
         "NAME_2": "Faisalabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.3.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Faisalabad"
+        "Cities": "Faisalabad"
       },
       "geometry": {
         "type": "Polygon",
@@ -32644,22 +31804,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.3_1",
         "NAME_2": "Faisalabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.3.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Jhang"
+        "Cities": "Jhang"
       },
       "geometry": {
         "type": "Polygon",
@@ -33205,22 +32355,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.3_1",
         "NAME_2": "Faisalabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.3.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Toba Tek Singh"
+        "Cities": "Toba Tek Singh"
       },
       "geometry": {
         "type": "Polygon",
@@ -33562,22 +32702,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.4_1",
         "NAME_2": "Gujranwala",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.4.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Gujarat"
+        "Cities": "Gujarat"
       },
       "geometry": {
         "type": "Polygon",
@@ -33818,22 +32948,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.4_1",
         "NAME_2": "Gujranwala",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.4.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Gujranwala"
+        "Cities": "Gujranwala"
       },
       "geometry": {
         "type": "Polygon",
@@ -34038,22 +33158,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.4_1",
         "NAME_2": "Gujranwala",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.4.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Gujranwala"
+        "Cities": "Gujranwala"
       },
       "geometry": {
         "type": "Polygon",
@@ -34178,22 +33288,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.4_1",
         "NAME_2": "Gujranwala",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.4.4_1",
-        "VARNAME_3": "Gujarat",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Gujrat"
+        "Cities": "Gujrat"
       },
       "geometry": {
         "type": "Polygon",
@@ -34374,22 +33474,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.4_1",
         "NAME_2": "Gujranwala",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.4.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Hafizabad"
+        "Cities": "Hafizabad"
       },
       "geometry": {
         "type": "Polygon",
@@ -34570,22 +33660,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.4_1",
         "NAME_2": "Gujranwala",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.4.6_1",
-        "VARNAME_3": "Norowal",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Narowal"
+        "Cities": "Narowal"
       },
       "geometry": {
         "type": "Polygon",
@@ -34806,22 +33886,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.4_1",
         "NAME_2": "Gujranwala",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.4.7_1",
-        "VARNAME_3": "Norowal",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Narowal"
+        "Cities": "Narowal"
       },
       "geometry": {
         "type": "Polygon",
@@ -34990,22 +34060,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.4_1",
         "NAME_2": "Gujranwala",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.4.8_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Sialkot"
+        "Cities": "Sialkot"
       },
       "geometry": {
         "type": "Polygon",
@@ -35282,22 +34342,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.5_1",
         "NAME_2": "Lahore",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.5.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kasur"
+        "Cities": "Kasur"
       },
       "geometry": {
         "type": "Polygon",
@@ -35810,22 +34860,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.5_1",
         "NAME_2": "Lahore",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.5.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Lahore"
+        "Cities": "Lahore"
       },
       "geometry": {
         "type": "Polygon",
@@ -36038,22 +35078,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.5_1",
         "NAME_2": "Lahore",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.5.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Nankana Sahib"
+        "Cities": "Nankana Sahib"
       },
       "geometry": {
         "type": "Polygon",
@@ -36454,22 +35484,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.5_1",
         "NAME_2": "Lahore",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.5.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Okara"
+        "Cities": "Okara"
       },
       "geometry": {
         "type": "Polygon",
@@ -36718,22 +35738,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.5_1",
         "NAME_2": "Lahore",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.5.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Okara 1"
+        "Cities": "Okara 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -37034,22 +36044,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.5_1",
         "NAME_2": "Lahore",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.5.6_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Sheikhupura"
+        "Cities": "Sheikhupura"
       },
       "geometry": {
         "type": "Polygon",
@@ -37342,22 +36342,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.6_1",
         "NAME_2": "Multan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.6.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Khanewal"
+        "Cities": "Khanewal"
       },
       "geometry": {
         "type": "Polygon",
@@ -37747,22 +36737,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.6_1",
         "NAME_2": "Multan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.6.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Lodhran"
+        "Cities": "Lodhran"
       },
       "geometry": {
         "type": "Polygon",
@@ -38147,22 +37127,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.6_1",
         "NAME_2": "Multan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.6.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Multan"
+        "Cities": "Multan"
       },
       "geometry": {
         "type": "Polygon",
@@ -38543,22 +37513,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.6_1",
         "NAME_2": "Multan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.6.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Pakpattan"
+        "Cities": "Pakpattan"
       },
       "geometry": {
         "type": "Polygon",
@@ -38919,22 +37879,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.6_1",
         "NAME_2": "Multan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.6.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Sahiwal"
+        "Cities": "Sahiwal"
       },
       "geometry": {
         "type": "Polygon",
@@ -39303,22 +38253,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.6_1",
         "NAME_2": "Multan",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.6.6_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Vehari"
+        "Cities": "Vehari"
       },
       "geometry": {
         "type": "Polygon",
@@ -39747,22 +38687,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.7_1",
         "NAME_2": "Rawalpindi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.7.1_1",
-        "VARNAME_3": "Attock",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Attok"
+        "Cities": "Attok"
       },
       "geometry": {
         "type": "Polygon",
@@ -40188,22 +39118,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.7_1",
         "NAME_2": "Rawalpindi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.7.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Chakwal"
+        "Cities": "Chakwal"
       },
       "geometry": {
         "type": "Polygon",
@@ -40625,22 +39545,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.7_1",
         "NAME_2": "Rawalpindi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.7.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Jhelum"
+        "Cities": "Jhelum"
       },
       "geometry": {
         "type": "Polygon",
@@ -40969,22 +39879,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.7_1",
         "NAME_2": "Rawalpindi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.7.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Rawalpindi"
+        "Cities": "Rawalpindi"
       },
       "geometry": {
         "type": "Polygon",
@@ -41561,22 +40461,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.8_1",
         "NAME_2": "Sargodha",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.8.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Bhakkar"
+        "Cities": "Bhakkar"
       },
       "geometry": {
         "type": "Polygon",
@@ -41962,22 +40852,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.8_1",
         "NAME_2": "Sargodha",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.8.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Khushab"
+        "Cities": "Khushab"
       },
       "geometry": {
         "type": "Polygon",
@@ -42318,22 +41198,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.8_1",
         "NAME_2": "Sargodha",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.8.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Mianwali"
+        "Cities": "Mianwali"
       },
       "geometry": {
         "type": "Polygon",
@@ -42683,22 +41553,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.7_1",
         "NAME_1": "Punjab",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.7.8_1",
         "NAME_2": "Sargodha",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.7.8.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Sargodha"
+        "Cities": "Sargodha"
       },
       "geometry": {
         "type": "Polygon",
@@ -43171,22 +42031,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.1_1",
         "NAME_2": "Hyderabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.1.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Badin"
+        "Cities": "Badin"
       },
       "geometry": {
         "type": "Polygon",
@@ -43607,22 +42457,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.1_1",
         "NAME_2": "Hyderabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.1.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Dadu"
+        "Cities": "Dadu"
       },
       "geometry": {
         "type": "Polygon",
@@ -43923,22 +42763,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.1_1",
         "NAME_2": "Hyderabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.1.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Hyderabad"
+        "Cities": "Hyderabad"
       },
       "geometry": {
         "type": "Polygon",
@@ -44099,22 +42929,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.1_1",
         "NAME_2": "Hyderabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.1.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Jamshoro"
+        "Cities": "Jamshoro"
       },
       "geometry": {
         "type": "Polygon",
@@ -44491,22 +43311,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.1_1",
         "NAME_2": "Hyderabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.1.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Matiari"
+        "Cities": "Matiari"
       },
       "geometry": {
         "type": "Polygon",
@@ -44667,22 +43477,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.1_1",
         "NAME_2": "Hyderabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.1.6_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Tando Allahyar"
+        "Cities": "Tando Allahyar"
       },
       "geometry": {
         "type": "Polygon",
@@ -44819,22 +43619,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.1_1",
         "NAME_2": "Hyderabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.1.7_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Tando M. Khan"
+        "Cities": "Tando M. Khan"
       },
       "geometry": {
         "type": "Polygon",
@@ -44959,22 +43749,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.1_1",
         "NAME_2": "Hyderabad",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.1.8_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Thatta"
+        "Cities": "Thatta"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50869,22 +49649,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.2_1",
         "NAME_2": "Karachi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.2.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Karachi"
+        "Cities": "Karachi"
       },
       "geometry": {
         "type": "Polygon",
@@ -50933,22 +49703,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.2_1",
         "NAME_2": "Karachi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.2.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Karachi"
+        "Cities": "Karachi"
       },
       "geometry": {
         "type": "Polygon",
@@ -51049,22 +49809,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.2_1",
         "NAME_2": "Karachi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.2.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Karachi"
+        "Cities": "Karachi"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51231,22 +49981,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.2_1",
         "NAME_2": "Karachi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.2.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Karachi"
+        "Cities": "Karachi"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51650,22 +50390,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.2_1",
         "NAME_2": "Karachi",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.2.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Malir"
+        "Cities": "Malir"
       },
       "geometry": {
         "type": "Polygon",
@@ -52079,22 +50809,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.3_1",
         "NAME_2": "Larkana",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.3.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Jakobabad"
+        "Cities": "Jakobabad"
       },
       "geometry": {
         "type": "Polygon",
@@ -52295,22 +51015,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.3_1",
         "NAME_2": "Larkana",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.3.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Kashmore"
+        "Cities": "Kashmore"
       },
       "geometry": {
         "type": "Polygon",
@@ -52559,22 +51269,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.3_1",
         "NAME_2": "Larkana",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.3.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Larkana"
+        "Cities": "Larkana"
       },
       "geometry": {
         "type": "Polygon",
@@ -52895,22 +51595,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.3_1",
         "NAME_2": "Larkana",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.3.4_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Shikarpur"
+        "Cities": "Shikarpur"
       },
       "geometry": {
         "type": "Polygon",
@@ -53123,22 +51813,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.4_1",
         "NAME_2": "Mirpur Khas",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.4.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Mirphurkhas"
+        "Cities": "Mirphurkhas"
       },
       "geometry": {
         "type": "Polygon",
@@ -53487,22 +52167,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.4_1",
         "NAME_2": "Mirpur Khas",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.4.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Mithi"
+        "Cities": "Mithi"
       },
       "geometry": {
         "type": "Polygon",
@@ -54100,22 +52770,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.4_1",
         "NAME_2": "Mirpur Khas",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.4.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Sanghar"
+        "Cities": "Sanghar"
       },
       "geometry": {
         "type": "Polygon",
@@ -54572,22 +53232,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.4_1",
         "NAME_2": "Mirpur Khas",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.4.4_1",
-        "VARNAME_3": "Umarkot",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Umerkot"
+        "Cities": "Umerkot"
       },
       "geometry": {
         "type": "Polygon",
@@ -54820,22 +53470,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.5_1",
         "NAME_2": "Rann of Kutch",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.5.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Rann of Kutch"
+        "Cities": "Rann of Kutch"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55038,22 +53678,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.6_1",
         "NAME_2": "Sukkur",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.6.1_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Ghotki"
+        "Cities": "Ghotki"
       },
       "geometry": {
         "type": "Polygon",
@@ -55330,22 +53960,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.6_1",
         "NAME_2": "Sukkur",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.6.2_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Khairpur"
+        "Cities": "Khairpur"
       },
       "geometry": {
         "type": "Polygon",
@@ -55802,22 +54422,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.6_1",
         "NAME_2": "Sukkur",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.6.3_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Naushahro Firoz"
+        "Cities": "Naushahro Firoz"
       },
       "geometry": {
         "type": "Polygon",
@@ -56070,22 +54680,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.6_1",
         "NAME_2": "Sukkur",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.6.4_1",
-        "VARNAME_3": "Nawabshah",
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Nawab Shah"
+        "Cities": "Nawab Shah"
       },
       "geometry": {
         "type": "Polygon",
@@ -56354,22 +54954,12 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_0": "PAK",
         "NAME_0": "Pakistan",
-        "GID_1": "PAK.8_1",
         "NAME_1": "Sind",
-        "NL_NAME_1": null,
-        "GID_2": "PAK.8.6_1",
         "NAME_2": "Sukkur",
-        "NL_NAME_2": null,
-        "GID_3": "PAK.8.6.5_1",
-        "VARNAME_3": null,
-        "NL_NAME_3": null,
         "TYPE_3": "District",
         "ENGTYPE_3": "District",
-        "CC_3": null,
-        "HASC_3": null,
-        "NAME_3(cities)": "Sukkur"
+        "Cities": "Sukkur"
       },
       "geometry": {
         "type": "Polygon",
